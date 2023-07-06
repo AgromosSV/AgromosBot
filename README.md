@@ -1,4 +1,8 @@
-alt="Aun no esta terminado"/></a>. `AgromosSP Bot 🤖`
+AGROMOS BOT AUN NO ESTA TERMINADO 👻NO TENGO GANAS DE HACERLO, TAL VEZ LO TERMINE EL PROXIMO AÑO🔥
+
+
+
+`AgromosSP Bot 🤖`
 
 ### `👑 ¿Tienes dudas sobre el bot?, contactame loca`
 <a href="http://wa.me/983186566" target="blank"><img src="https://img.shields.io/badge/BRAgromos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
