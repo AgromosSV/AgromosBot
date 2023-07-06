@@ -1,7 +1,7 @@
-## `💫 𝑆𝐼𝑀𝑃𝐿𝐸 - 𝐵𝑂𝑇 💫`
+## `AgromosSP Bot 🤖`
 
-### `👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+### `👑 ¿Tienes dudas sobre el bot?, contactame loca`
+<a href="http://wa.me983186566" target="blank"><img src="https://img.shields.io/badge/BRAgromos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="http://wa.me/521524531106422" target="blank"><img src="https://img.shields.io/badge/@Azami19-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 ### `—◉ 🔗 CUENTAS OFICIALES 🔗`
