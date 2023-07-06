@@ -7,11 +7,16 @@ let username = conn.getName(who)
 let user = global.db.data.users[m.sender]
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let menu = `
-╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
+╭══〘 AGROMOS BOT 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${taguser} :D*
+║➤ * Creador Del Bot: Agromos
+║➤ *Numero Del Creador: +595983186566
+║➤ *Numero Del Bot +0000000
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-╰══╡✯✯✯✯✯✯✯✯╞══╯
+║➤ *Usuario:* ${taguser}
+║➤ *Tu Nivel es:* 21
+╰══╡AGROMOS BOT╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *< COMANDOS >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
