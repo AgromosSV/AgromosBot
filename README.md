@@ -74,8 +74,8 @@ pm2 start index
 
 
 ### `COLABORADORES DEL BOT`
-<a href="https://github.com/Dale 1 estrella "><img src="https://github.com/Dale 1 estrella.png" width="150" height="150" alt="Azami19"/></a>
-<a href="https://github.com/Dale 1 estrella"><img src="https://github.com/Dale 1 estrella.png" width="150" height="150" alt="elrebelde21"/></a>
+<a href="https://github.com/Dale 1 estrella "><img src="https://github.com/Dale 1 estrella.png" width="150" height="150" alt="Dale 1 estrella"/></a>
+<a href="https://github.com/Dale 1 estrella"><img src="https://github.com/Dale 1 estrella.png" width="150" height="150" alt="Dale 1 estrella"/></a>
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 <a href="https://github.com/AgromosSV"><img src="https://github.com/AgromosSV.png" width="300" height="300" alt="BrunoSobrino"/></a>
