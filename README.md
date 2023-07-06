@@ -15,7 +15,7 @@ AGROMOS BOT AUN NO ESTA TERMINADO 👻
 <a href="https://chat.whatsapp.com/FRkr7jJHSJA564dDs" target="blank"><img src="https://img.shields.io/badge/1 grupo_(𝙴𝚂)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://chat.whatsapp.com/FRkr7jJHSJA5Oj" target="blank"><img src="https://img.shields.io/badge/Grupo 1(EN)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS QUE SEAN BOTS
+> Estamos intentando recuperar los grupos originales 
 
 
 
