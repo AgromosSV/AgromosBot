@@ -5,7 +5,7 @@ AGROMOS BOT AUN NO ESTA TERMINADO 👻TAL VEZ EL PROXIMO AÑO🔥
 `AgromosSP Bot 🤖`
 
 ### `👑 ¿Tienes dudas sobre el bot?, contactame loca`
-<a href="http://wa.me/983186566" target="blank"><img src="https://img.shields.io/badge/BRAgromos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/BRAgromos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="http://wa.me/quelocokp" target="blank"><img src="https://img.shields.io/badge/Agromos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
